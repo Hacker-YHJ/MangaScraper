@@ -1,0 +1,21 @@
+{
+  "name": "manga_scraper",
+  "version": "1.0.0",
+  "description": "scrape manga by one click",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "manga",
+    "scraper"
+  ],
+  "author": "Thomas Yang <jscnm1993@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "iconv": "^2.2.1",
+    "mkdirp": "^0.5.1",
+    "request": "^2.74.0"
+  }
+}
